@@ -23,6 +23,8 @@
 
     //now (:D) getting the NowViewController
     GMONowViewController *NSnowController = [self nowViewController];
+
+    //this is the method that gets called, when you tap the cards at the bottom of the screen
     [NSnowController performExpandForTap];
 }
 
