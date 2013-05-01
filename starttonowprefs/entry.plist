@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = startToNowPrefs;
+		cell = PSLinkCell;
+		detail = "startToNowPrefsListController";
+		icon = "startToNowPrefs.png";
+		isController = 1;
+		label = StartToNow;
+	};
+}

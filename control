@@ -1,0 +1,10 @@
+Package: com.maxkatzmann.starttonow
+Name: StartToNow
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Why not have the Google Search app launch straight to Google Now? This tweak does that for you. It will only do this, if you launch the app and there is no current search active. That means, if you search for something, exit the app and relaunch it, you will still find the latest search. Requires the Google Search app from the AppStore. Enable/Disable in Settings.
+Maintainer: Max Katzmann
+Author: Max Katzmann <m.katzmann@me.com>
+Section: Tweaks
+dev: maxkatzmann <m.katzmann@me.com>
